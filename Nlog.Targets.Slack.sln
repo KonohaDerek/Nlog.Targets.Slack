@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nlog.Targets.Slack", "Nlog.Targets.Slack\Nlog.Targets.Slack.csproj", "{AFD79D5D-1134-410C-B7AA-892F4B281D69}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nlog.Targets.Slack.Console", "Nlog.Targets.Slack.Console\Nlog.Targets.Slack.Console.csproj", "{7BDE66D1-4157-47B5-A804-2E10F823FCC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nlog.Targets.Slack.Demo", "Nlog.Targets.Slack.Demo\Nlog.Targets.Slack.Demo.csproj", "{2388B898-50E4-4815-949F-2BD24003215F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD79D5D-1134-410C-B7AA-892F4B281D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD79D5D-1134-410C-B7AA-892F4B281D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD79D5D-1134-410C-B7AA-892F4B281D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD79D5D-1134-410C-B7AA-892F4B281D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BDE66D1-4157-47B5-A804-2E10F823FCC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDE66D1-4157-47B5-A804-2E10F823FCC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDE66D1-4157-47B5-A804-2E10F823FCC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDE66D1-4157-47B5-A804-2E10F823FCC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2388B898-50E4-4815-949F-2BD24003215F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2388B898-50E4-4815-949F-2BD24003215F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2388B898-50E4-4815-949F-2BD24003215F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2388B898-50E4-4815-949F-2BD24003215F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {925F09B3-5A6A-4143-8800-F728916FCF56}
+	EndGlobalSection
+EndGlobal
